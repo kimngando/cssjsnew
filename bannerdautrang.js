@@ -117,8 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/dcDkAk' target='_blank'><img src='http://www.thuanvietgift.com/asset/img/product/ao-mua-canh-doi-002-1441815471.jpg' 
-width='500px'/><br/>SẢN XUẤT ÁO MƯA</a>. LH 0909747758. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/QGLjHu' target='_blank'><img src='http://www.thuanvietgift.com/asset/img/product/ao-mua-canh-doi-001-1441815397.jpg' width='500px'/><br/>13 Sản xuất áo mưa</a>. LH 0909747758. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
